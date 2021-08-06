@@ -5,7 +5,6 @@
 }
 
 body {
-    /* background-image: url("./snow.jpg"); */
     background: rgb(70,226,92);
     background: linear-gradient(90deg, rgba(70,226,92,1) 0%, rgba(23,204,120,1) 50%, rgba(0,255,214,1) 100%);
     min-height: 100vh;
